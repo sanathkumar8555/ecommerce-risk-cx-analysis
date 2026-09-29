@@ -96,7 +96,7 @@ Excel was used for additional investigation and validation through:
 
 A final Excel dashboard was created to communicate the major findings and KPIs.
 
-![E-Commerce Risk & Customer Experience Dashboard](dashboard/dashboard.png)
+![E-Commerce Risk & Customer Experience Dashboard](04_Excel/dashboard.png)
 
 ## Key KPIs
 
